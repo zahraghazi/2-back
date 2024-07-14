@@ -1,0 +1,4 @@
+Install pygame: pip install pygame
+Install numpy: pip install numpy
+Install pandas: pip install pandas
+Install xlsxwriter: pip install xlsxwriter
